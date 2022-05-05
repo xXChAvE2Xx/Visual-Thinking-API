@@ -41,4 +41,5 @@ $ npm test
 | `localhost:3000/v1/students/credits`            | Regresa la información de los estudiantes que tienen más de 500 créditos.|     
 
 ## Demo
+![demo](https://user-images.githubusercontent.com/54995852/167044953-2b10ae90-6504-47e6-b78d-5570b61898e9.gif)
 
