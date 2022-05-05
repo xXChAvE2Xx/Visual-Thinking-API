@@ -1,5 +1,6 @@
 # Visual-Thinking-API
 
+###EN CONSTRUCCIÓN
 |Endpoint                                         | Response                                                                 |
 |-------------------------------------------------|--------------------------------------------------------------------------|
 | `localhost:3000/v1/students/all`                | Regresa toda la informacion de los estudiantes.                          |
